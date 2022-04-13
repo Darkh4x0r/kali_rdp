@@ -9,7 +9,7 @@ then add command one by one
 
 Commands: 
 
-wget -O kali.sh https://bit.ly/3EM0kdd > /dev/null 2>&1
+wget -O kali.sh https://raw.githubusercontent.com/Darkh4x0r/kali_rdp/main/kali.sh > /dev/null 2>&1
 
 chmod +x kali.sh
 ./kali.sh
